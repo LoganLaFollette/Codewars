@@ -22,8 +22,8 @@ public class sandbox {
 		for (int i : sorted) {
 			System.out.print(i + " ");
 		}
-		String zoo = "bug,grass,busker,bug,cow,grass,lion,leaves,panda,bicycle,little-fish,lion";
-		Dinglemouse.whoEatsWho(zoo);
+//		String zoo = "bug,grass,busker,bug,cow,grass,lion,leaves,panda,bicycle,little-fish,lion";
+//		Dinglemouse.whoEatsWho(zoo);
 	}
 
 }
