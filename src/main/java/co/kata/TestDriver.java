@@ -1,4 +1,4 @@
-package co.kata.solutions;
+package co.kata;
 import java.util.List;
 
 public class TestDriver {
@@ -26,7 +26,7 @@ public class TestDriver {
 		System.out.println("\n\nTesting MySortOdd");
 		int[] sorted = MySortOdd.sortArray(new int[]{ 5, 3, 1, 8, 0 });
 		for (int i : sorted) {
-			System.out.print(STR."\{i} ");
+			System.out.print(i + ", ");
 		}
 
 		// HungerGames

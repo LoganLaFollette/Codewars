@@ -1,4 +1,4 @@
-package co.kata.solutions;
+package co.kata;
 
 import java.util.ArrayList;
 import java.util.Collections;
