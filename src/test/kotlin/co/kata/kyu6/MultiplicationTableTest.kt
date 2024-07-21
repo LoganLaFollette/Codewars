@@ -1,6 +1,6 @@
-package co.kata
+package co.kata.kyu6
 
-import main.kotlin.co.kata.MultiplicationTable
+import main.kotlin.co.kata.kyu6.MultiplicationTable
 import org.junit.jupiter.api.Assertions.assertTrue
 import org.junit.jupiter.api.Test
 

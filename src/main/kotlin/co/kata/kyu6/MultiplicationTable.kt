@@ -1,4 +1,4 @@
-package main.kotlin.co.kata
+package main.kotlin.co.kata.kyu6
 
 class MultiplicationTable {
     object KataSolution {

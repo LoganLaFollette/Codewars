@@ -1,6 +1,6 @@
-package co.kata
+package co.kata.kyu6
 
-import main.kotlin.co.kata.StockList
+import main.kotlin.co.kata.kyu6.StockList
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test
 

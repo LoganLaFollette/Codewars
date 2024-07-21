@@ -1,6 +1,6 @@
-package co.kata
+package co.kata.kyu6
 
-import main.kotlin.co.kata.Sample
+import main.kotlin.co.kata.kyu6.Sample
 import kotlin.test.Test
 import kotlin.test.assertEquals
 
